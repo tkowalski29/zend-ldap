@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-ldap",
+    "name": "tkowalski29/zendframework-zend-ldap",
     "description": "Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory",
     "license": "BSD-3-Clause",
     "keywords": [
